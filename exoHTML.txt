@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dies ist ein Beispiel</title>
+</head>
+<body>
+	
+</body>
+</html>
